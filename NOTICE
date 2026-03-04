@@ -1,0 +1,21 @@
+TomatoClock Third-Party Notices
+
+This project includes or depends on third-party components.
+
+Project license
+   - TomatoClock source code is licensed under GNU General Public License v3.0.
+   - When conveying binaries, provide corresponding source code under GPL terms.
+
+1) Qt (Qt5/Qt6 Widgets, Svg)
+   - Copyright (C) The Qt Company Ltd. and other contributors.
+   - Licensing model depends on the Qt distribution you use (for example LGPL/GPL/Commercial).
+   - When distributing binaries, ensure you provide the corresponding Qt license notices and comply
+     with the terms of the selected Qt license path.
+
+2) miniaudio
+   - Copyright (c) David Reid
+   - License: Dual-license option (Public Domain / MIT No Attribution)
+   - Full license text is included in: licenses/miniaudio/LICENSE
+
+For release compliance steps, see:
+doc/OPEN_SOURCE_RELEASE_CHECKLIST.md

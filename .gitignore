@@ -1,0 +1,102 @@
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+*~
+*.autosave
+*.a
+*.core
+*.moc
+*.o
+*.obj
+*.orig
+*.rej
+*.so
+*.so.*
+*_pch.h.cpp
+*_resource.rc
+*.qm
+.#*
+*.*#
+core
+!core/
+tags
+.DS_Store
+.directory
+*.debug
+Makefile*
+*.prl
+*.app
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Thumbs.db
+*.res
+/.qmake.cache
+/.qmake.stash
+
+# qtcreator generated files
+*.pro.user*
+CMakeLists.txt.user*
+
+# CMake / build outputs
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+*.ninja
+compile_commands.json
+cmake_install.cmake
+
+# Packaging outputs
+dist/
+backup/
+*.zip
+
+# Runtime local config
+config/
+
+# Private development docs (keep local, do not publish)
+doc/private/
+doc/*.local.md
+doc/AI_DEVELOP_GUIDE.md
+doc/AI_STEP_BY_STEP_WORKFLOW.md
+doc/PRIVATE_DOCS.md
+doc/OPEN_SOURCE_RELEASE_CHECKLIST.md
+doc/GITHUB_RELEASE_*.md
+doc/README.md
+doc/PROJECT_STRUCTURE.md
+doc/CHANGELOG.md
+
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# Visual Studio generated files
+*.ib_pdb_index
+*.idb
+*.ilk
+*.pdb
+*.sln
+*.suo
+*.vcproj
+*vcproj.*.*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vcxproj
+*vcxproj.*
+
+# MinGW generated files
+*.Debug
+*.Release
+
+# Python byte code
+*.pyc
+
+# Binaries
+# --------
+*.dll
+*.exe
+

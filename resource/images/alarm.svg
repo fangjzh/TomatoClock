@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128" height="128" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bodyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff7b72"/>
+      <stop offset="100%" stop-color="#e63946"/>
+    </linearGradient>
+  </defs>
+
+  <path d="M27 30 L14 18" stroke="#e63946" stroke-width="6" stroke-linecap="round"/>
+  <path d="M101 30 L114 18" stroke="#e63946" stroke-width="6" stroke-linecap="round"/>
+
+  <circle cx="35" cy="26" r="13" fill="#ffb4ae" stroke="#e63946" stroke-width="4"/>
+  <circle cx="93" cy="26" r="13" fill="#ffb4ae" stroke="#e63946" stroke-width="4"/>
+
+  <circle cx="64" cy="70" r="42" fill="url(#bodyGrad)" stroke="#b71d2a" stroke-width="4"/>
+  <circle cx="64" cy="70" r="28" fill="#fff6f5" stroke="#e97f88" stroke-width="3"/>
+
+  <line x1="64" y1="70" x2="64" y2="52" stroke="#30343f" stroke-width="4" stroke-linecap="round"/>
+  <line x1="64" y1="70" x2="78" y2="70" stroke="#30343f" stroke-width="4" stroke-linecap="round"/>
+
+  <circle cx="64" cy="70" r="4" fill="#30343f"/>
+
+  <rect x="39" y="108" width="10" height="8" rx="3" fill="#b71d2a"/>
+  <rect x="79" y="108" width="10" height="8" rx="3" fill="#b71d2a"/>
+
+  <path d="M22 48 Q14 56 22 64" stroke="#e63946" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M106 48 Q114 56 106 64" stroke="#e63946" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
